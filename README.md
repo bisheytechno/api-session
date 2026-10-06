@@ -26,11 +26,11 @@ Learning how to work with APIs using Python's requests library — foundation fo
 ```
 api-session/
 │
-├── 01_basics.py          → GET request basics
-├── 02_params.py          → Query parameters
-├── 03_headers.py         → Headers & Auth
-├── 04_error_handling.py  → try/except
-├── 05_json.py            → JSON handle
+├── basic.py          → GET request basics
+├── params.py          → Query parameters
+├── headers.py         → Headers & Auth
+├── error_handling.py  → try/except
+├── jsontry.py            → JSON handle
 ├── requirements.txt      → Dependencies
 └── README.md
 ```
