@@ -67,11 +67,11 @@ python 01_basics.py
 
 | File | Topic | Status |
 |------|-------|--------|
-| 01_basics.py | GET request | ✅ |
-| 02_params.py | Query parameters | ✅ |
-| 03_headers.py | Headers & Auth | ✅ |
-| 04_error_handling.py | Error handling | ✅ |
-| 05_json.py | JSON handle | ✅ |
+| basic.py | GET request | ✅ |
+| params.py | Query parameters | ✅ |
+| headers.py | Headers & Auth | ✅ |
+| error_handling.py | Error handling | ✅ |
+| jsontry.py | JSON handle | ✅ |
 
 ---
 
